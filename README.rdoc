@@ -3,3 +3,5 @@
 
 Log everything in JSON - MetricSense is an application metrics collection API.
 
+See also https://github.com/treasure-data/fluent-plugin-metricsense
+
