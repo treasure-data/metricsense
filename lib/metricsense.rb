@@ -133,7 +133,7 @@ module MetricSense
     end
 
     def_delegators 'context', :event, :[], :clear!, :measure!
-    def_delegators 'event(nil)', :tag, :value, :segment, :fact
+    def_delegators 'event(nil)', :tag, :value, :segment, :fact, :time
     def_delegators 'event(nil)', :values, :segments, :facts
   end
 
