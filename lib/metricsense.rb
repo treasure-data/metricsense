@@ -1,7 +1,7 @@
 #
 # MetricSense for Ruby
 #
-# Copyright (C) 2012 Sadayuki Furuhashi
+# Copyright (C) 2012-2013 Sadayuki Furuhashi
 #
 #    Licensed under the Apache License, Version 2.0 (the "License");
 #    you may not use this file except in compliance with the License.
